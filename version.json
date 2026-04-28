@@ -1,0 +1,7 @@
+{
+  "version": "2.1.0",
+  "released_at": "2026-04-28",
+  "download_url": "https://github.com/TPAVAO364/cob-balan7-releases/releases/download/v2.1.0/cob-balan7-2.1.0.zip",
+  "changelog": "- Versao inicial publicada em GitHub Releases\n- Sistema completo: multi-empresa, multi-usuario, perfis RBAC granular\n- Anti-bloqueio Meta, layouts customizaveis de boleto, login por e-mail\n- Auto-atualizacao via update.bat\n- Atalhos no desktop com icone do logo Balan7",
+  "min_version": "2.0.0"
+}
