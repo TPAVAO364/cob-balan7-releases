@@ -1,7 +1,7 @@
 {
-      "version": "2.3.1",
-      "released_at": "2026-06-06",
-      "download_url": "https://github.com/TPAVAO364/cob-balan7-releases/releases/download/v2.3.1/COB_Balan7_v2.3.1_UPDATE.zip",
-      "changelog": "- Atualizacao automatica via web (banner + download + restart)\n- Validacao de CPF/CNPJ no cadastro\n- Remocao de zeros a esquerda no codigo\n- Limpeza automatica de cache apos updates",
-      "min_version": "2.0.0"
+          "version": "2.4.0",
+          "released_at": "2026-06-06",
+          "download_url": "https://github.com/TPAVAO364/cob-balan7-releases/releases/download/v2.4.0/COB_Balan7_v2.4.0_UPDATE.zip",
+          "changelog": "- Logo integrado no modal da empresa (upload, preview, exclusao)\n- Logo da empresa no topbar das paginas principais\n- Correcao de logos nao aparecendo nos relatorios PDF\n- Auto-deteccao de logos orfaos no banco",
+          "min_version": "2.0.0"
 }
