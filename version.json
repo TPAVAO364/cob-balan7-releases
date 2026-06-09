@@ -1,7 +1,7 @@
 {
-              "version": "2.4.1",
-              "released_at": "2026-06-07",
-              "download_url": "https://github.com/TPAVAO364/cob-balan7-releases/releases/download/v2.4.1/COB_Balan7_v2.4.1_UPDATE.zip",
-              "changelog": "- Correcao critica: arquivos truncados na v2.4.0\n- Logo integrado no modal da empresa (upload, preview, exclusao)\n- Logo da empresa no topbar das paginas principais\n- Correcao de logos nos relatorios PDF\n- Auto-deteccao de logos orfaos no banco",
-              "min_version": "2.0.0"
+    "version": "2.4.2",
+    "released_at": "2026-06-09",
+    "download_url": "https://github.com/TPAVAO364/cob-balan7-releases/releases/download/v2.4.2/COB_Balan7_v2.4.2_UPDATE.zip",
+    "changelog": "- Fallback automatico para template vencido mais proximo quando nao ha template exato\n- Em empate de dias, prefere o template anterior\n- Correcao na captura de vencimento no layout (Local de Pagamento vs tabela de parcelas)",
+    "min_version": "2.0.0"
 }
