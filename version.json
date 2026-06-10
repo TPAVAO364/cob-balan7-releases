@@ -1,7 +1,7 @@
 {
-      "version": "2.4.3",
-      "released_at": "2026-06-09",
-      "download_url": "https://github.com/TPAVAO364/cob-balan7-releases/releases/download/v2.4.3/cob-balan7-2.4.3.zip",
-      "changelog": "- Correcao critica: message_builder.py e db_manager.py truncados nas versoes 2.4.0-2.4.2\n- Funcoes set_departamentos_mensagem e preparar_lote restauradas\n- Validacao de integridade no update.py (aborta se ZIP corrompido)\n- Validacao pre-release no release.py",
-      "min_version": "2.0.0"
+        "version": "2.4.3",
+        "released_at": "2026-06-10",
+        "download_url": "https://github.com/TPAVAO364/cob-balan7-releases/releases/download/v2.4.3/COB_Balan7_v2.4.3_UPDATE.zip",
+        "changelog": "- Fix TypeError na tela Ler Pasta & Enviar (it.boleto undefined)\n- Protecao contra dados de boleto ausentes em itens sem cadastro\n- Correcao de arquivos truncados nas versoes 2.4.0-2.4.2",
+        "min_version": "2.0.0"
 }
