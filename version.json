@@ -1,7 +1,7 @@
 {
-            "version": "2.4.4",
-            "released_at": "2026-06-10",
-            "download_url": "https://github.com/TPAVAO364/cob-balan7-releases/releases/download/v2.4.4/COB_Balan7_v2.4.4_UPDATE.zip",
-            "changelog": "- Fix dados do boleto vazios na tela Ler Pasta & Enviar (CPF, vencimento, valor)\n- Objeto boleto agora incluido no retorno da API para exibicao correta\n- Protecao contra it.boleto undefined (TypeError)",
-            "min_version": "2.0.0"
+                "version": "2.4.5",
+                "released_at": "2026-06-11",
+                "download_url": "https://github.com/TPAVAO364/cob-balan7-releases/releases/download/v2.4.5/COB_Balan7_v2.4.5_UPDATE.zip",
+                "changelog": "- Fix mensagem do template em branco na tela de envios (campo mensagem_final)\n- Fix telefone do contato nao aparecendo (objeto contato)\n- Fix dados do boleto vazios (CPF, vencimento, valor)\n- Correcao de truncacao no message_builder.py",
+                "min_version": "2.0.0"
 }
